@@ -1,2 +1,2 @@
 unsigned long long factorial(int num);
-int soma(int a, int b);
+int sum(int a, int b);

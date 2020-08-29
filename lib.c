@@ -13,7 +13,7 @@ unsigned long long factorial(int num)
     return result;
 }
 
-int soma(int a, int b)
+int sum(int a, int b)
 {
     return a + b;
 }
